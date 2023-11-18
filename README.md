@@ -1,4 +1,4 @@
-# ROS2-SKID-STEER-DRIVE-ROBOT
+# ROS2-DIFFERENTIAL-DRIVE-ROBOT
 ## Installation
 The package was made using [ROS2 Humble](https://docs.ros.org/en/humble/index.html)
 ## Dependencies
