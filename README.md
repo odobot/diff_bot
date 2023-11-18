@@ -27,7 +27,7 @@ To build the packages in this repository follow these steps:
    cd diffbot_ws/src
    ```
    ```console
-   git clone https://github.com/odobot/ROS2-SKID-STEER-DRIVE-ROBOT.git
+   git clone https://github.com/odobot/diff_bot.git
    ```
 3. Naviage back to the workspace folder
    ```console
